@@ -17,5 +17,7 @@ This repository is to document the papers focusing on dialogue generation. I wil
 
 
 
-## VAE
-1. 
+## Dialogue Generation in Multi-turn Dialogue Systems
+1. Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models, *the famous HRED model*.  [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11957/12160).
+2. A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues, *VHRED model*, AAAI 2017. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14567/14219).
+
