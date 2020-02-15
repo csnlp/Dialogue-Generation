@@ -1,6 +1,21 @@
 This repository is to document the papers focusing on dialogue generation. I will also include their code implementation if possible. 
 
 # Contents
+   * [Contents](#contents)
+   * [Open-Domain Dialogue Generation](#open-domain-dialogue-generation)
+      * [Open-Domain Dialogue Datasets](#open-domain-dialogue-datasets)
+      * [Seq2Seq Model for Dialogue Generation](#seq2seq-model-for-dialogue-generation)
+      * [Reinforcement Learning Approaches for Dialogue Generation](#reinforcement-learning-approaches-for-dialogue-generation)
+      * [Adversarial Learning Approaches for Dialogue Generation](#adversarial-learning-approaches-for-dialogue-generation)
+      * [Context-aware Dialogue Generation:Hierarchy Methods](#context-aware-dialogue-generationhierarchy-methods)
+      * [Evaluation Methods](#evaluation-methods)
+      * [Papers about The Safe Response Problem](#papers-about-the-safe-response-problem)
+      * [Curriculum Learning Approaches](#curriculum-learning-approaches)
+      * [Incorporate External Knowledge into Dialogue Generation](#incorporate-external-knowledge-into-dialogue-generation)
+   * [Task-oriented Dialogue Generation](#task-oriented-dialogue-generation)
+      * [Datasets for Task-oriented Dialogue Systems](#datasets-for-task-oriented-dialogue-systems)
+      * [Multi-Domain Dialogue Generation](#multi-domain-dialogue-generation)
+   * [Academic Conferences and Workshops](#academic-conferences-and-workshops)
 - [Open-Domain Dialogue Generation](#open-domain-dialogue-generation)
   * [Open-Domain Dialogue Datasets](#open-domain-dialogue-datasets)
   * [Seq2Seq Model for Dialogue Generation](#seq2seq-model-for-dialogue-generation)
