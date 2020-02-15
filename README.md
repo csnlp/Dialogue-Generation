@@ -35,8 +35,13 @@ Actually, almost all of the existing generative approach use the Seq2Seq model.
 1. Neural Responding Machine for Short-Text Conversation, ACL 2015. [paper](https://www.aclweb.org/anthology/P15-1152.pdf).
 2. A Neural Conversational Model, arxiv. [paper](http://pub-tools-public-publication-data.storage.googleapis.com/pdf/44925.pdf)
 
+## Personalized Dialogue Generation
+1. A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data, AAAI 2020. [paper](https://arxiv.org/pdf/1911.04700.pdf)
+2. 
+
 ## Reinforcement Learning Approaches for Dialogue Generation
 1. Deep Reinforcement Learning for Dialogue Generation, [paper](https://www.aclweb.org/anthology/D16-1127.pdf)
+2. Hierarchical Reinforcement Learning for Open-Domain Dialog, AAAI 2020. [paper](https://arxiv.org/pdf/1909.07547.pdf)
 
 ## Adversarial Learning Approaches for Dialogue Generation
 1. Adversarial Learning for Neural Dialogue Generation, [paper](https://www.aclweb.org/anthology/D17-1230.pdf)
@@ -69,11 +74,13 @@ Actually, almost all of the existing generative approach use the Seq2Seq model.
 
 ## Datasets for Task-oriented Dialogue Systems
 1. FRAMES Corpus. [paper](https://www.aclweb.org/anthology/W17-5526v2.pdf), [dataset](https://www.microsoft.com/en-us/research/project/frames-dataset/#!download)
+2. Towards Scalable Multi-Domain Conversational Agents: The Schema-Guided Dialogue Dataset, AAAI 2020. [paper](https://arxiv.org/pdf/1909.05855.pdf). **A large dataset containing over 16k multi-domain conversations spanning 16 domains.**
 
 ## Multi-Domain Dialogue Generation
 1. MALA: Cross-Domain Dialogue Generation with Action Learning, AAAI 2020. [paper](https://arxiv.org/pdf/1912.08442.pdf)
 2. 
-
+## Others
+1. End-to-End Trainable Non-Collaborative Dialog System, AAAI 2020. [paper](https://arxiv.org/pdf/1911.10742.pdf)
 # Academic Conferences and Workshops
 1. ACL 20xx
 2. EMNLP 20xx
