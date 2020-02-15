@@ -7,6 +7,8 @@ This repository is to document the papers focusing on dialogue generation. I wil
   * [Reinforcement Learning Approaches for Dialogue Generation](#reinforcement-learning-approaches-for-dialogue-generation)
   * [Adversarial Learning Approaches for Dialogue Generation](#adversarial-learning-approaches-for-dialogue-generation)
   * [Context-aware Dialogue Generation: Hierarchy Methods](#context-aware-dialogue-generation--hierarchy-methods)
+
+  * [Context-aware Dialogue Generation: Hierarchy Methods](#context-aware-dialogue-generation--hierarchy-methods)
   * [Papers about the Safe Response Problem](#papers-about-the-safe-response-problem)
   * [Curriculum Learning Approaches](#curriculum-learning-approaches)
   * [Incorporate External Knowledge into Dialogue Generation](#incorporate-external-knowledge-into-dialogue-generation)
@@ -42,7 +44,7 @@ Actually, almost all of the existing generative approach use the Seq2Seq model.
 1. Adversarial Learning for Neural Dialogue Generation, [paper](https://www.aclweb.org/anthology/D17-1230.pdf)
 
 
-## Context-aware Dialogue Generation: Hierarchy Methods
+## Context-aware Dialogue Generation:Hierarchy Methods
 1. A Hierarchical Recurrent Encoder-Decoder for Generative Context-Aware Query Suggestion, **the first HRED model**, CIKM 2015. [paper](http://hjemmesider.diku.dk/~kwn804/publications/CIKM15.pdf)
 2. Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models, *the famous HRED model*.  [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11957/12160).
 3. A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues, *VHRED model*, AAAI 2017. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14567/14219).
