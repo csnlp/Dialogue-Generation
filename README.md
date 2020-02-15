@@ -2,7 +2,8 @@ This repository is to document the papers focusing on dialogue generation. I wil
 
 # Contents
 - [Open-Domain Dialogue Generation](#open-domain-dialogue-generation)
- * [Open-Domain Dialogue Datasets](#open-domain-dialogue-datasets)
+  * [Open-Domain Dialogue Datasets](#open-domain-dialogue-datasets)
+
 
 # Open-Domain Dialogue Generation
 
