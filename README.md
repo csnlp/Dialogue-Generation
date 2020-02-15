@@ -6,7 +6,7 @@ This repository is to document the papers focusing on dialogue generation. I wil
   * [Seq2Seq Model for Dialogue Generation](#seq2seq-model-for-dialogue-generation)
   * [Reinforcement Learning Approaches for Dialogue Generation](#reinforcement-learning-approaches-for-dialogue-generation)
   * [Adversarial Learning Approaches for Dialogue Generation](#adversarial-learning-approaches-for-dialogue-generation)
-  * [Context-aware Dialogue Generation: Hierarchy Methods](#context-aware-dialogue-generation--hierarchy-method)
+  * [Context-aware Dialogue Generation: Hierarchy Methods](#context-aware-dialogue-generation--hierarchy-methods)
   * [Papers about the Safe Response Problem](#papers-about-the-safe-response-problem)
   * [Curriculum Learning Approaches](#curriculum-learning-approaches)
   * [Incorporate External Knowledge into Dialogue Generation](#incorporate-external-knowledge-into-dialogue-generation)
