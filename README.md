@@ -6,16 +6,16 @@ This repository is to document the papers focusing on dialogue generation. I wil
   * [Seq2Seq Model for Dialogue Generation](#seq2seq-model-for-dialogue-generation)
   * [Reinforcement Learning Approaches for Dialogue Generation](#reinforcement-learning-approaches-for-dialogue-generation)
   * [Adversarial Learning Approaches for Dialogue Generation](#adversarial-learning-approaches-for-dialogue-generation)
-  * [Context-aware Dialogue Generation](#context-aware-dialogue-generation)
+  * [Context-aware Dialogue Generation: Hierarchy Methods](#context-aware-dialogue-generation-hierarchy-method)
   * [Papers about the Safe Response Problem](#papers-about-the-safe-response-problem)
   * [Curriculum Learning Approaches](#curriculum-learning-approaches)
   * [Incorporate External Knowledge into Dialogue Generation](#incorporate-external-knowledge-into-dialogue-generation)
 
-- [Task-oriented Dialogue Generation](task-oriented-dialogue-generation)
+- [Task-oriented Dialogue Generation](#task-oriented-dialogue-generation)
   * [Datasets for Task-oriented Dialogue Systems](#datasets-for-task-oriented-dialogue-systems)
   * [Multi-Domain Dialogue Generation](#multi-domain-dialogue-generation)
 
-- [Academic Conferences and Workshops](academic-conferences-and-workshops)
+- [Academic Conferences and Workshops](#academic-conferences-and-workshops)
 
 
 # Open-Domain Dialogue Generation
@@ -35,7 +35,7 @@ Actually, almost all of the existing generative approach use the Seq2Seq model.
 1. Neural Responding Machine for Short-Text Conversation, ACL 2015. [paper](https://www.aclweb.org/anthology/P15-1152.pdf).
 2. A Neural Conversational Model, arxiv. [paper](http://pub-tools-public-publication-data.storage.googleapis.com/pdf/44925.pdf)
 
-## 1.3. Reinforcement Learning Approaches for Dialogue Generation
+## Reinforcement Learning Approaches for Dialogue Generation
 1. Deep Reinforcement Learning for Dialogue Generation, [paper](https://www.aclweb.org/anthology/D16-1127.pdf)
 
 ## Adversarial Learning Approaches for Dialogue Generation
