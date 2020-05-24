@@ -37,7 +37,7 @@ Actually, almost all of the existing generative approach use the Seq2Seq model.
 
 ## Personalized Dialogue Generation
 1. A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data, AAAI 2020. [paper](https://arxiv.org/pdf/1911.04700.pdf)
-2. 
+2. Guiding Variational Response Generator to Exploit Persona, ACL 2020. [paper](https://arxiv.org/abs/1911.02390)
 
 ## Reinforcement Learning Approaches for Dialogue Generation
 1. Deep Reinforcement Learning for Dialogue Generation, [paper](https://www.aclweb.org/anthology/D16-1127.pdf)
@@ -57,19 +57,41 @@ Actually, almost all of the existing generative approach use the Seq2Seq model.
 1. How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation, **A empirical study**. [paper](https://www.aclweb.org/anthology/D16-1230.pdf)
 2. Predictive Engagement: An Efficient Metric for Automatic Evaluation of Open-Domain Dialogue Systems, AAAI 2020. [paper](https://arxiv.org/pdf/1911.01456.pdf).
 3. Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation, AAAI 2020. 
+4. Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation, ACL 2020. [paper](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/acl20dial.pdf)
+5. USR: An Unsupervised and Reference Free Evaluation Metric for Dialog Generation, ACL 2020. [paper](https://arxiv.org/abs/2005.00456)
+6. Evaluating Dialogue Generation Systems via Response Selection, ACL 2020. [paper](https://arxiv.org/abs/2004.14302)
+
+## Pretrained Model for Dialogue Generation
+1. DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation, ACL 2020. [paper](https://arxiv.org/abs/1911.00536). 
+2. 
 
 ## Papers about The Safe Response Problem
 1. A Diversity-Promoting Objective Function for Neural Conversation Models(*MMI*), NAACL-HLT 2016. [paper](https://www.aclweb.org/anthology/N16-1014.pdf)
 2. Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders, ACL 2017. [paper](https://www.aclweb.org/anthology/P17-1061.pdf)
 3. Topic Aware Neural Response Generation, AAAI 2017. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753) 
 4. Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization, NIPS 2018. [paper](http://papers.neurips.cc/paper/7452-generating-informative-and-diverse-conversational-responses-via-adversarial-information-maximization.pdf)
+5. Diversifying Dialogue Generation with Non-Conversational Text, ACL 2020. [paper](https://arxiv.org/abs/2005.04346).
+6. DAL: Dual Adversarial Learning for Dialogue Generation, NAACL 2019. [paper]()
+7. Negative Training for Neural Dialogue Response Generation, ACL 2020. [paper](https://arxiv.org/pdf/1903.02134.pdf)
+8. Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy
 
+
+## Incoporate Knowledge into Response Generation
+1. Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation, ACL 2020. [paper]()
+2. Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness, ACL 2020. [paper]()
+3. Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs, ACL 2020. [paper](https://arxiv.org/abs/1911.02707)
+4. Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation, ACL 2020. [paper]()
+## Improve Dialogue Consistency
+1. Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation, ACL 2020. [paper](https://arxiv.org/abs/2004.07672)
 ## Curriculum Learning Approaches
 1. Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation, AAAI 2020. 
+2. CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation, ACL 2020. 
 
 ## Incorporate External Knowledge into Dialogue Generation
 1. Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering, AAAI 2020. [paper](https://arxiv.org/pdf/1912.07491.pdf)
 
+## Other Types
+1. You Impress Me: Dialogue Generation via Mutual Persona Perception
 # Task-oriented Dialogue Generation
 
 ## Datasets for Task-oriented Dialogue Systems
@@ -78,9 +100,15 @@ Actually, almost all of the existing generative approach use the Seq2Seq model.
 
 ## Multi-Domain Dialogue Generation
 1. MALA: Cross-Domain Dialogue Generation with Action Learning, AAAI 2020. [paper](https://arxiv.org/pdf/1912.08442.pdf)
-2. 
+2. Multi-Domain Dialogue Acts and Response Co-Generation,ACL 2020. [paper](https://arxiv.org/abs/2004.12363)
+3. 
+
+## End-to-End Approaches
+1. MOSS: End-to-End Dialog System Framework with Modular Supervision, [paper](https://arxiv.org/pdf/1909.05528.pdf)
+
 ## Others
 1. End-to-End Trainable Non-Collaborative Dialog System, AAAI 2020. [paper](https://arxiv.org/pdf/1911.10742.pdf)
+
 # Academic Conferences and Workshops
 1. ACL 20xx
 2. EMNLP 20xx
