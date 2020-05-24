@@ -5,18 +5,24 @@ This repository is to document the papers focusing on dialogue generation. I wil
    * [Open-Domain Dialogue Generation](#open-domain-dialogue-generation)
       * [Open-Domain Dialogue Datasets](#open-domain-dialogue-datasets)
       * [Seq2Seq Model for Dialogue Generation](#seq2seq-model-for-dialogue-generation)
+      * [Personalized Dialogue Generation](#personalized-dialogue-generation)
       * [Reinforcement Learning Approaches for Dialogue Generation](#reinforcement-learning-approaches-for-dialogue-generation)
       * [Adversarial Learning Approaches for Dialogue Generation](#adversarial-learning-approaches-for-dialogue-generation)
       * [Context-aware Dialogue Generation:Hierarchy Methods](#context-aware-dialogue-generationhierarchy-methods)
       * [Evaluation Methods](#evaluation-methods)
+      * [Pretrained Model for Dialogue Generation](#pretrained-model-for-dialogue-generation)
       * [Papers about The Safe Response Problem](#papers-about-the-safe-response-problem)
+      * [Incoporate Knowledge into Response Generation](#incoporate-knowledge-into-response-generation)
+      * [Improve Dialogue Consistency](#improve-dialogue-consistency)
       * [Curriculum Learning Approaches](#curriculum-learning-approaches)
       * [Incorporate External Knowledge into Dialogue Generation](#incorporate-external-knowledge-into-dialogue-generation)
+      * [Other Types](#other-types)
    * [Task-oriented Dialogue Generation](#task-oriented-dialogue-generation)
       * [Datasets for Task-oriented Dialogue Systems](#datasets-for-task-oriented-dialogue-systems)
       * [Multi-Domain Dialogue Generation](#multi-domain-dialogue-generation)
+      * [End-to-End Approaches](#end-to-end-approaches)
+      * [Others](#others)
    * [Academic Conferences and Workshops](#academic-conferences-and-workshops)
-
 
 # Open-Domain Dialogue Generation
 
